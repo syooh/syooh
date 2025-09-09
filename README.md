@@ -36,17 +36,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <br/>
 <br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 </div>
+
+<div align="center">
+
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=syooh&show_icons=true" height="180px"/>
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syooh&layout=compact" height="180px"/>
+
+</div>
+
 
